@@ -25,7 +25,7 @@
 ### :man_technologist: Обо мне :
 
 Я Python :snake: разработчик.
-- :computer: Предпочитаю работать в оффлайн-формате
+- :computer: Предпочитаю работать в онлайн-формате
 
 - :dart: Имею знание фреймворков Django, Flask, FastAPI.
 
