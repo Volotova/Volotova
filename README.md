@@ -2,9 +2,6 @@
   <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="150"/>
 </div>
 <div id="badges" align="center">
-    <a href="https://www.linkedin.com/in/aleksandr-belyaev-b1a86a242/">
-    <img src="https://img.shields.io/badge/LinkedIn-darkblue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
   <a href="https://t.me/Aliaksandr_Belyaev">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Twitter Badge"/>
   </a>
